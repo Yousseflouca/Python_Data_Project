@@ -1,0 +1,7 @@
+/.vscode
+# Large dataset
+data_jobs.csv
+
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
